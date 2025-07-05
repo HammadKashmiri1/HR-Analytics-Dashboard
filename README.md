@@ -9,6 +9,7 @@ Dashboard Features
 - Interactive filters for easier navigation and data exploration.
 - Interactive Tooltips for better Employee and Gender decision-making 
 
+![Login](screenshots/login.png)
 
 
 ![DashBoard](docs/Summary%20Dashboard.png)
@@ -20,7 +21,7 @@ Dashboard Features
 - Power BI Desktop
 - Power Query
 - DAX
-- HR Dataset (Chat GPT + Python Faker library)
+- HR Dataset (Chat GPT + Python Faker library) 
 
 ## Notes
 
