@@ -9,10 +9,7 @@ Dashboard Features
 - Interactive filters for easier navigation and data exploration.
 - Interactive Tooltips for better Employee and Gender decision-making 
 
-## Project Files
 
--  Power BI report file (E-mail me if you want the source file, rizwanforbuissnes@gmail.com happy to help 😊)
--  Dataset used
 
 ![DashBoard](docs/Summary%20Dashboard.png)
 
@@ -31,4 +28,4 @@ Dashboard Features
 - Interactive Calender and Refresh buttons, Tooltips
 - Data used is for educational and portfolio purposes only.
 
-Regards, **Rizwan Bin Akbar**
+
