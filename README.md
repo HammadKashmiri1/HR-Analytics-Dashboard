@@ -9,12 +9,14 @@ Dashboard Features
 - Interactive filters for easier navigation and data exploration.
 - Interactive Tooltips for better Employee and Gender decision-making 
 
-![Login](screenshots/login.png)
+## 📸 Screenshots
 
+### Dashboard Screen
+![Dashboard](screenshots/dashboard.png)
 
-![DashBoard](docs/Summary%20Dashboard.png)
+### Employee Salary Screen
+![Employee Salary](screenshots/employee-salary.png)
 
-![Employee Summary](docs/Employee%20Dashboard.png)
 
 ## Tools and Technologies
 
