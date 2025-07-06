@@ -11,11 +11,7 @@ Dashboard Features
 
 ## 📸 Screenshots
 
-### Dashboard Screen
-![Dashboard](screenshots/dashboard.png)
-
-### Employee Salary Screen
-![Employee Salary](screenshots/employee-salary.png)
+![image alt](https://github.com/HammadKashmiri1/HR-Analytics-Dashboard/blob/4bdf6f66e35fa097252a88de18ffe23f784d1036/Dashboard.png)
 
 
 ## Tools and Technologies
