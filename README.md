@@ -12,7 +12,7 @@ Dashboard Features
 ## 📸 Screenshots
 
 ![image alt](https://github.com/HammadKashmiri1/HR-Analytics-Dashboard/blob/4bdf6f66e35fa097252a88de18ffe23f784d1036/Dashboard.png)
-
+![image alt](https://github.com/HammadKashmiri1/HR-Analytics-Dashboard/blob/b4f4843d28f2427b22ed3250210162085118258b/Employee%20Salary.png)
 
 ## Tools and Technologies
 
